@@ -1,1 +1,1 @@
-E-commerce Spring boot based web application
+A spring boot E-commerce web application  
